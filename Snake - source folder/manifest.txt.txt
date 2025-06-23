@@ -1,0 +1,2 @@
+Main-Class: Main.java
+Class-Path: javalayer.jar
